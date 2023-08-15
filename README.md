@@ -11,4 +11,4 @@ The goals of this assignment are:
 ● Explore a basic linked queue implementation
 ● Practice iterating through a linked list without using an Iterator
 ● Additional practice with object-oriented programming and unit test development
-The source code can be found in the 'P08/src' folder.
+The source code can be found in the 'P08/src' directory.
